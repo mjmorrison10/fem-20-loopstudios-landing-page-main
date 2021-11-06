@@ -219,7 +219,7 @@ header {
 }
 
 .creations-button-mobile {
-    display: none;
+  display: none;
 }
 
 .creations-button:hover,
@@ -457,6 +457,7 @@ footer {
 .footer-menu li {
   cursor: pointer;
   position: relative;
+  width: fit-content;
 }
 
 .social-media {
@@ -737,29 +738,29 @@ footer {
       "the-curiosity"
       "make-it-fisheye";
   }
-}
 
-/* //////////////////////////////////////////////////////////// */
-/* //////////////////////////////////////////////////////////// */
-/* //////////////////////////////////////////////////////////// */
+  /* //////////////////////////////////////////////////////////// */
+  /* //////////////////////////////////////////////////////////// */
+  /* //////////////////////////////////////////////////////////// */
 
-footer {
-  flex-direction: column;
-  text-align: center;
-}
+  footer {
+    flex-direction: column;
+    text-align: center;
+  }
 
-.left-footer {
-  width: 100%;
-}
+  .left-footer {
+    width: 100%;
+  }
 
-.footer-menu {
-  flex-direction: column;
-}
+  .footer-menu {
+    flex-direction: column;
+  }
 
-.footer-menu li {
-  margin-bottom: 1rem;
-}
+  .footer-menu li {
+    margin-bottom: 1rem;
+  }
 
-.social-media {
-  justify-content: center;
+  .social-media {
+    justify-content: center;
+  }
 }
