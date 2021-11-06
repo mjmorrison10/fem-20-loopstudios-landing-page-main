@@ -93,7 +93,7 @@ header {
  * animation scale-up-hor-center
  * ----------------------------------------
  */
- 
+
 @-webkit-keyframes scale-up-hor-center {
   0% {
     -webkit-transform: scaleX(0.4);
@@ -211,6 +211,12 @@ header {
   font-family: var(--ff-Alata);
   font-weight: var(--fw-At--ff-Alata);
   cursor: pointer;
+  transition: all 250ms ease-in-out;
+}
+
+.creations-button:hover {
+  background-color: var(--color-black);
+  color: var(--color-white);
 }
 
 .images-container {
