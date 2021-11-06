@@ -528,7 +528,7 @@ footer {
   }
 
   .mobile-model {
-    padding: 5% 5%;
+    padding: 8% 10%;
     background-color: black;
     position: fixed;
     top: 0;
@@ -569,6 +569,10 @@ footer {
   .menu-bars i {
     font-size: 2rem;
     cursor: pointer;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
   }
 
   .header-title {
