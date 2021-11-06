@@ -28,9 +28,11 @@ The designs were created to the following widths:
 
 - Family: [Alata](https://fonts.google.com/specimen/Alata)
 - Weight: 400
+<!-- e - is straight -->
 
 - Family: [Josefin Sans](https://fonts.google.com/specimen/Josefin+Sans)
 - Weight: 300
+<!-- e - is bent -->
 
 ## Icons
 
