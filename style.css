@@ -553,7 +553,7 @@ footer {
     left: 0;
     right: 0;
     bottom: 25%;
-    width: 100%;
+    width: fit-content;
     margin-top: 0;
     overflow: hidden;
     z-index: 10;
